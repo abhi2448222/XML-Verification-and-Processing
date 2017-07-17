@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel Stars="***">
+        <Name>Quality Inn</Name>
+        <Contact>
+            <Phone>4008564563</Phone>
+            <Email>contact@sheraton.com</Email>
+        </Contact>
+        <Address BusLines="121, 221" >
+            <Number>695</Number>
+            <Street>625 W 1st ST</Street>
+            <City>Tempe</City>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Stars="****">
+        <Name>Choice Inn</Name>
+        <Contact>
+            <Phone>8008564563</Phone>
+            <Email>contact@choice.com</Email>
+        </Contact>
+        <Address BusLines="625, 121, 221" >
+            <Number>795</Number>
+            <Street>725 W 1st ST</Street>
+            <City>Phoneix</City>
+            <Zip>95281</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Stars="*****">
+        <Name>Grand Hyatt Inn</Name>
+        <Contact>
+            <Phone>7008564563</Phone>
+            <Email>contact@grand.com</Email>
+        </Contact>
+        <Address BusLines="525, 121, 821" >
+            <Number>995</Number>
+            <Street>825 W 1st ST</Street>
+            <City>Vegas</City>
+            <Zip>65281</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Stars="*****">
+        <Name>Mannorama </Name>
+        <Contact>
+            <Phone>4008564563</Phone>
+            <Email>contact@manorams.com</Email>
+        </Contact>
+        <Address BusLines="625, 221" >
+            <Number>7895</Number>
+            <Street>425 W 1st ST</Street>
+            <City>San Jose</City>
+            <Zip>45281</Zip>
+        </Address>
+    </Hotel>
+	<Hotel Stars="*****">
+        <Name>Udupi Inn</Name>
+        <Contact>
+            <Phone>2568564563</Phone>
+            <Email>contact@Udupi.com</Email>
+        </Contact>
+        <Address>
+            <Number>195</Number>
+            <Street>425 W 1st ST</Street>
+            <City>Tempe</City>
+            <Zip>78281</Zip>
+        </Address>
+    </Hotel> 
+	<Hotel Stars="*****">
+        <Name>Kohinoor</Name>
+        <Contact>
+            <Phone>94489815698</Phone>
+            <Email>helpus@Kohinoor.com</Email>
+        </Contact>
+        <Address>
+            <Number>485</Number>
+            <Street>Beach park</Street>
+            <City>Tempe</City>
+            <Zip>78281</Zip>
+        </Address>
+    </Hotel> 
+</Hotels>
